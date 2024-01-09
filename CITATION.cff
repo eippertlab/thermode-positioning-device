@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "If you use the provided design blueprint, please cite it as below."
+authors:
+- family-names: "Mueller"
+  given-names: "Roland"
+  orcid: "https://orcid.org/0009-0009-0072-4002"
+- family-names: "Dabbagh"
+  given-names: "Alice"
+  orcid: "https://orcid.org/0009-0005-9515-6810"
+- family-names: "Eippert"
+  given-names: "Falk"
+  orcid: "https://orcid.org/0000-0002-3986-1719"
+title: "ThermoSlide: an MR-compatible thermode positioning device"
+version: 
+doi: 
+date-released: 
+url: 

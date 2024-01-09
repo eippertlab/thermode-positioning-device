@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/741047737.svg)](https://zenodo.org/doi/10.5281/zenodo.10475478) [![CC BY 4.0][cc-by-shield]][cc-by]
 # ThermoSlide: an MR-compatible thermode positioning device
 
 
@@ -17,10 +18,9 @@ The torsion spring was fabricated from KEYENCE AR-M2 at a local service provider
 
 ## Usage, citation and contact
 We have used this device in various fMRI studies at 3T and 7T (e.g. https://www.biorxiv.org/content/10.1101/2023.12.22.572825v1) and would be happy to provide help in case you are interest in using such a device as well. In case you use this device, please cite it as shown under 'Cite this repository' on the right. If you have any questions, please feel free to reach out to rmueller@cbs.mpg.de. 
+[![DOI](https://zenodo.org/badge/741047737.svg)](https://zenodo.org/doi/10.5281/zenodo.10475478)
 
 ## License
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 

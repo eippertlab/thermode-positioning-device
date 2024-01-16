@@ -1,4 +1,6 @@
-[![DOI](https://zenodo.org/badge/741047737.svg)](https://zenodo.org/doi/10.5281/zenodo.10475478) [![CC BY 4.0][cc-by-shield]][cc-by]
+![GitHub Release](https://img.shields.io/github/v/release/eippertlab/thermode-positioning-device)
+[![DOI](https://zenodo.org/badge/741047737.svg)](https://zenodo.org/doi/10.5281/zenodo.10475478) 
+[![CC BY 4.0][cc-by-shield]][cc-by]
 # ThermoSlide: an MR-compatible thermode positioning device
 
 
